@@ -24,6 +24,7 @@ clear ; close all; clc
 %  the data.
 %
 
+% Load Training Data
 fprintf('Loading and Visualizing Data ...\n')
 
 % Load from ex5data1: 
